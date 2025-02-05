@@ -1,4 +1,3 @@
-<allign = "center">
 # 💫 About Me:
 🔭 I’m currently working on<br>⚡ I’m currently learning<br>💬 
 
