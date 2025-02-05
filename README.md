@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=400&widht=1000&section=header&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&animation=twinkling&fontAlign=50&&fontAlignY=50&fontSize=80)
 
-<p align = "center"> 
-  💫 About Me:
-🔭 I’m currently working on<br>⚡ I’m currently learning<br>💬 
+<div align = "center">
+💫 About Me: I am a CompuScience Student
+🔭 I’m currently working <br>⚡ I’m currently learning WebDev<br>💬 
 
- <img src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/snake.svg" alt="Snake animation">
+<!--ini buat ulo gerak-->
+<img src="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ao.mta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mutiaaulia-ma) 
@@ -19,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aomta&icon=1&color=0)](https://visitcount.itsvg.in)
 
-</p>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
