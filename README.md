@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=400&widht=1000&section=header&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&animation=twinkling&fontAlign=50&&fontAlignY=50&fontSize=80)
+<!--header-->
+![header](https://capsule-render.vercel.app/api?type=waving&height=380&color=timeGradient&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&textBg=false&fontSize=80&animation=twinkling&descAlignY=65&descSize=20)
 
 <div align = "center">
-💫 About Me: I am a CompuScience Student
-🔭 I’m currently working <br>⚡ I’m currently learning WebDev<br>💬 
+💫 About Me: I am a CompuScience Student<br>
+🔭 I’m currently working <br>⚡ I’m currently learning Web Development<br>💬 
 
 <!--ini buat ulo gerak-->
 <img src="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation">
@@ -20,5 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aomta&icon=1&color=0)](https://visitcount.itsvg.in)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&textBg=false&fontSize=80&animation=twinkling&descSize=25&section=footer)
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
