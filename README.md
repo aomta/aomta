@@ -4,7 +4,7 @@
   💫 About Me:
 🔭 I’m currently working on<br>⚡ I’m currently learning<br>💬 
 
-![Snake animation](https://github.com/aomta/aomta/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/snake.svg" alt="Snake animation">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ao.mta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mutiaaulia-ma) 
