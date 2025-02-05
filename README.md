@@ -1,3 +1,4 @@
+<allign = "center">
 # 💫 About Me:
 🔭 I’m currently working on<br>⚡ I’m currently learning<br>💬 
 
@@ -14,5 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aomta&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<\allign>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
