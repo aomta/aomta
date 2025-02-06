@@ -1,5 +1,7 @@
 <!--header-->
-![header](https://capsule-render.vercel.app/api?type=waving&height=380&color=timeGradient&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&textBg=false&fontSize=80&animation=twinkling&descAlignY=65&descSize=20)
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=380&align=center&color=timeGradient&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&textBg=false&fontSize=80&animation=twinkling&descAlignY=65&descSize=20)
+
 
 <div align = "center">
 💫 About Me: I am a CompuScience Student<br>
