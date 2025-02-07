@@ -8,6 +8,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=539bf5&center=true&vCenter=true&width=435&lines=I'm+Mutia+Aulia;" alt="Typing SVG"/>
     </h1>
 
+<!--gif-->
+<p>
+    <img src="https://i.giphy.com/ule4vhcY1xEKQ.gif" alt="cat gammer" />
+</p>    
+
 <!--about me -->
 <h1>💫 About Me </h1><br>🚀I am a CompuScience Student<br><!--🔭 I’m currently working <br>-->⚡ I’m currently learning Web Development<br>💬 You can reach me through my sosial<br>
 
