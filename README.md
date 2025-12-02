@@ -14,7 +14,7 @@
 </p>    
 
 <!--about me -->
-<h1>💫 About Me </h1><br>🚀I am a CompuScience Student<br><!--🔭 I’m currently working <br>-->⚡ I’m currently learning Web Development<br>💬 You can reach me through my sosial<br>
+<h1>💫 About Me </h1><br>🚀I am a CompuScience Student<br><!--🔭 I’m currently working <br>-->⚡ I’m currently learning Web Development, Java, ML, etc<br>💬 You can reach me through my sosial<br>
 
 <!--snake animation-->
 <img src ="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation"><br>
