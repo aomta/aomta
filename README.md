@@ -20,6 +20,13 @@
 <img src ="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation"><br>
 <img src = "https://profile-counter.glitch.me/{aomta}/count.svg"/>
 
+<!--pacman animation-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--social media-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ao.mta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mutiaaulia-ma) 
@@ -38,8 +45,8 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aomta&theme=onedark&no-frame=false&no-bg=true&margin-w=4)-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aomta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aomta&limit=5&theme=dark&combine_all_yearly_contributions=true)--!>
 
 <!--footer-->
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&textBg=false&fontSize=80&animation=twinkling&descSize=25&section=footer"/>
