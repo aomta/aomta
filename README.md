@@ -40,15 +40,11 @@
 
 <!--git stats-->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aomta&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aomta&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aomta&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![aomta's Stats](https://github-readme-stats.vercel.app/api?username=aomta&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aomta&theme=onedark&no-frame=false&no-bg=true&margin-w=4)-->
+![aomta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aomta&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aomta&limit=5&theme=dark&combine_all_yearly_contributions=true)--!>
+![aomta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aomta&theme=react&hide_progress=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--footer-->
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&textBg=false&fontSize=80&animation=twinkling&descSize=25&section=footer"/>
