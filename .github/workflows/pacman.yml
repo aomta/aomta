@@ -6,10 +6,6 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 jobs:
   generate:
     permissions:
@@ -18,18 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman
+        uses: Platane/snk@v3
         with:
           github_user_name: aomta
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman.svg?palette=github-dark
 
-      - name: Push to Output Branch
+      - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
