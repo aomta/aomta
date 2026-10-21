@@ -1,35 +1,48 @@
 <!--header-->
-<div align="center">
+<p align="center">
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=350&align=center&color=timeGradient&text=Hello!%20I'm%20Mutia%20Aulia&desc=%20This%20is%20my%20Github%20Profile&textBg=false&fontSize=80&animation=twinkling&descAlignY=65&descSize=20"/>
 
 <!--welcoming sign-->
-<h1>
+<h1 align = "center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=539bf5&center=true&vCenter=true&width=435&lines=I'm+Mutia+Aulia;" alt="Typing SVG"/>
     </h1>
 
 <!--gif-->
-<p>
+<p align="center">
     <img src="https://i.giphy.com/ule4vhcY1xEKQ.gif" alt="cat gammer" />
 </p>    
 
 <!--about me -->
-<h1>💫 About Me </h1> <br>🚀I'm a CompScience Student<br><!--🔭 I’m currently working <br>-->⚡ I’m currently learning Java, ML, etc<br>💬 You can reach me through my sosial<br>
+<h1 align="center">💫 About Me </h1> 
+<p align="center">
+    🚀I'm a CompScience Student<br><!--🔭 I’m currently working <br>-->
+    ⚡ I’m currently learning Java, ML, etc<br>
+    💬 You can reach me through my sosial<br>
+</p>
 
 <!--snake animation
 <img src ="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation"><br>
 <img src = "https://profile-counter.glitch.me/{aomta}/count.svg"/>-->
 
-<!--pacman animation-->
+<!--pacman animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/aomta/aomta/output/pacman.svg" alt="Pacman Animation" />
-</picture>
+</picture>-->
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=aomta&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192503957%3Fv%3D4&v=showcase-heatmap-3" alt="aomta heatmap visual" />
+<br>
+</p>
+
+<div align="center">
 
 <!--social media-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//ao.mta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mutiaaulia-ma) 
+
 
 <!--stack that i used-->
 # 💻 Tech Stack:
@@ -48,4 +61,3 @@
 
 <!--footer-->
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&textBg=false&fontSize=80&animation=twinkling&descSize=25&section=footer"/>
-</div>
