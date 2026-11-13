@@ -25,19 +25,19 @@
 <img src ="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation"><br>
 <img src = "https://profile-counter.glitch.me/{aomta}/count.svg"/>-->
 
-<!--pacman animation
+pacman animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/aomta/aomta/output/pacman.svg" alt="Pacman Animation" />
-</picture>-->
+</picture>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=aomta&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192503957%3Fv%3D4&v=showcase-heatmap-3" alt="aomta heatmap visual" />
+<!--<img src="https://www.gitskins.com/api/section/heatmap?username=aomta&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192503957%3Fv%3D4&v=showcase-heatmap-3" alt="aomta heatmap visual" />
 <br>
 </p>
 
-<div align="center">
+<div align="center">-->
 
 <!--social media-->
 ## 🌐 Socials:
