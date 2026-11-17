@@ -23,9 +23,9 @@
 
 <!--snake animation
 <img src ="https://raw.githubusercontent.com/aomta/aomta/output/snake.svg" alt="Snake animation"><br>
-<img src = "https://profile-counter.glitch.me/{aomta}/count.svg"/>-->
+<img src = "https://profile-counter.glitch.me/{aomta}/count.svg"/>
 
-pacman animation
+pacman animation-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aomta/aomta/output/pacman-contribution-graph.svg">
